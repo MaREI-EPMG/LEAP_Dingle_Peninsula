@@ -1,5 +1,3 @@
-# LEAP_Dingle_Peninsula
-LEAP model for Dingle 
 # LEAP Dingle Peninsula model repository
 
 ## Background
