@@ -5,7 +5,7 @@ This repository has been created to provide access to:
 
 The **MaREI LEAP Dingle Peninsula 2030 model**, which was generated as part of **Dingle Peninsula / Corca Dhuibhne 2030** research project. The project outputs are available [here](https://www.marei.ie/project/dingle-peninsula-2030/).
 
-Doing things differently: Bridging community concerns and energy system modelling with a transdisciplinary approach in rural Ireland [[1](https://www.sciencedirect.com/science/article/pii/S2214629622001621)]
+**Publication:**Doing things differently: Bridging community concerns and energy system modelling with a transdisciplinary approach in rural Ireland [[1](https://www.sciencedirect.com/science/article/pii/S2214629622001621)]
 **Authors:** Connor McGookin, Tomás Mac Uidhir, Brian Ó Gallachóir and Edmond Byrne
 
 ## Installing LEAP
@@ -23,5 +23,5 @@ License information for LEAP is available within the [License](https://leap.sei.
 LEAP-SEI provide a range of [training material](https://leap.sei.org/default.asp?action=trainingmaterials) in different languages if you would like to learn more about the development/ operation of LEAP models.
 
 ## Reference
-[1]
+[1] McGookin, C., Mac Uidhir, T., Gallachóir, B. Ó., & Byrne, E. (2022). Doing things differently: Bridging community concerns and energy system modelling with a transdisciplinary approach in rural Ireland. Energy Research & Social Science, 89, 102658.
 [2] Heaps, C.G., 2020. LEAP: The Low Emissions Analysis Platform. [Software version: 2020.1.20] Stockholm Environment Institute. Somerville, MA, USA. https://leap.sei.org
