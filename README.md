@@ -25,4 +25,5 @@ LEAP-SEI provide a range of [training material](https://leap.sei.org/default.asp
 
 ## Reference
 [1] McGookin, C., Mac Uidhir, T., Gallachóir, B. Ó., & Byrne, E. (2022). Doing things differently: Bridging community concerns and energy system modelling with a transdisciplinary approach in rural Ireland. Energy Research & Social Science, 89, 102658.
+
 [2] Heaps, C.G., 2020. LEAP: The Low Emissions Analysis Platform. [Software version: 2020.1.20] Stockholm Environment Institute. Somerville, MA, USA. https://leap.sei.org
