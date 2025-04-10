@@ -5,7 +5,7 @@ This repository has been created to provide access to:
 
 The **MaREI LEAP Dingle Peninsula 2030 model**, which was generated as part of **Dingle Peninsula / Corca Dhuibhne 2030** research project. The project outputs are available [here](https://www.marei.ie/project/dingle-peninsula-2030/).
 
-**Publication:**Doing things differently: Bridging community concerns and energy system modelling with a transdisciplinary approach in rural Ireland [[1](https://www.sciencedirect.com/science/article/pii/S2214629622001621)]
+**Publication:** Doing things differently: Bridging community concerns and energy system modelling with a transdisciplinary approach in rural Ireland [[1](https://www.sciencedirect.com/science/article/pii/S2214629622001621)]
 **Authors:** Connor McGookin, Tomás Mac Uidhir, Brian Ó Gallachóir and Edmond Byrne
 
 ## Installing LEAP
